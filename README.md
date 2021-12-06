@@ -48,6 +48,7 @@ Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 
 ## Credits
 
+- [hnvn](https://github.com/hnvn)
 - [Tomas Verhelst](https://github.com/rootsoft)
 - [All Contributors](../../contributors)
 
