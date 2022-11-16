@@ -6,18 +6,17 @@ repository: https://github.com/RootSoft/walletconnect-secure-storage
 issue_tracker: https://github.com/RootSoft/walletconnect-secure-storage/issues
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ">=2.18.1 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
   # WalletConnect
-  walletconnect_dart: ^0.0.5
+  walletconnect_dart: ^0.0.11
 
   # Flutter Secure Storage
-  flutter_secure_storage: ^5.0.2
+  flutter_secure_storage: ^6.0.0
 
 dev_dependencies:
   flutter_test:
